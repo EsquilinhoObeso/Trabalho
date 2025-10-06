@@ -1,0 +1,15 @@
+#mainimage{
+    display: flex;
+    justify-content: center;
+}
+#bosta{
+    background-color: brown;
+}
+#fotos{
+    height: 100px;
+    width: 100px;
+}
+#perfil{
+    height: 50px;
+    width: 50px;
+}

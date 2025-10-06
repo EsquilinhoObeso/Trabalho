@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pagina 2 - Formulário</title>
+    <link rel="stylesheet" href="config.css">
+
+
+    <style>
+    header {
+      background-color: #4b0082;
+      color: white;
+      text-align: center;
+      padding: 15px;
+      font-size: 24px;
+      font-weight: bold;
+      box-shadow: 0 2px 5px rgba(0,0,0,0.2);
+    }
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f6f6f6;
+      padding: 20px;
+    }
+
+    form {
+      background-color: #fff;
+      padding: 20px;
+      border-radius: 10px;
+      max-width: 400px;
+      margin: auto;
+      box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    }
+
+    h2 {
+      text-align: center;
+      color: #333;
+    }
+
+    label {
+      display: block;
+      margin-top: 10px;
+      font-weight: bold;
+    }
+
+    input[type="text"],
+    input[type="email"],
+    select,
+    input[type="file"] {
+      width: 100%;
+      padding: 8px;
+      margin-top: 5px;
+      border-radius: 5px;
+      border: 1px solid #ccc;
+      box-sizing: border-box;
+    }
+
+    input[type="radio"] {
+      margin-right: 5px;
+    }
+
+    input[type="submit"] {
+      background-color: #4CAF50;
+      color: white;
+      border: none;
+      padding: 10px 15px;
+      margin-top: 15px;
+      cursor: pointer;
+      width: 100%;
+      border-radius: 5px;
+      font-size: 16px;
+    }
+
+    input[type="submit"]:hover {
+      background-color: #45a049;
+    }
+  </style>
+</head>
+<body id="bosta">
+<a href="index.html"><header>💩 Cocozinhos.com </header></a>
+ <form action="#" method="post">
+<h2>Formulário de Opinião</h2>
+
+    <label for="nome">Nome:</label>
+    <input type="text" id="nome" name="nome" required>
+    <br><br>
+    <label for="email">E-mail:</label>
+    <input type="email" id="email" name="email" required>
+    <br><br>
+    <label>Sexo:</label>
+    <input type="radio" id="masculino" name="sexo" value="M" required>
+    <label for="masculino" style="display:inline;">Masculino</label>
+    <input type="radio" id="feminino" name="sexo" value="F">
+    <label for="feminino" style="display:inline;">Feminino</label>
+    <br><br>
+    <label for="coco">Qual é o Poop mais Foda?:</label>
+    <select id="coco" name="coco" required>
+      <option value="">Selecione...</option>
+      <option>Cocô Arco-Íris</option>
+      <option>Cocô Dourado</option>
+      <option>Cocô Verdadeiro</option>
+      <option>Cocô Suspeito</option>
+      <option>Cocô Rei</option>
+      <option>Cocô Princesa</option>
+      <option>Cocô do CAPS</option>
+      <option>Cocô do Batman</option>
+      <option>Cocô Demoníaco Comedor de Casadas</option>
+      <option>Cocô Comedor de Casadas</option>
+      <option>Cocô Mamador</option>
+      <option>Cocô BD</option>
+      <option>Cocô Demônio</option>
+      <option>Cocô Nerdão</option>
+      <option>Cocô :|</option>
+    </select>
+<br><br>
+    <label for="arquivo">Envie um Meme:</label>
+    <input type="file" id="arquivo" name="arquivo" accept="image/*,.pdf,.docx">
+  <label for="Caule">Envie uma Copypasta</label>
+    <input type="text" id="Caule" name="Caule">
+<br><br>
+    <input type="submit" value="Enviar">
+ </form>
+ <!-- Não coloquei pro formulário ser enviado pra nenhum lugar -->
+</body>
+</html>
