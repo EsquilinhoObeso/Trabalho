@@ -8,129 +8,59 @@
 
 
 <url>
-  <loc>https://github.com/EsquilinhoObeso/Trabalho</loc>
-  <lastmod>2025-12-01T23:35:37+00:00</lastmod>
+  <loc>https://esquilinhoobeso.github.io/Trabalho/</loc>
+  <lastmod>2025-12-02T07:30:11+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
-  <loc>https://github.com/EsquilinhoObeso/Trabalho/activity</loc>
-  <lastmod>2025-12-01T23:35:37+00:00</lastmod>
+  <loc>https://esquilinhoobeso.github.io/Trabalho/pagina1.html</loc>
+  <lastmod>2025-12-02T07:30:11+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://github.com/EsquilinhoObeso/Trabalho/issues</loc>
-  <lastmod>2025-12-01T23:35:37+00:00</lastmod>
+  <loc>https://esquilinhoobeso.github.io/Trabalho/Hierarquia.html</loc>
+  <lastmod>2025-12-02T07:30:11+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://github.com/EsquilinhoObeso/Trabalho/pulls</loc>
-  <lastmod>2025-12-01T23:35:37+00:00</lastmod>
+  <loc>https://esquilinhoobeso.github.io/Trabalho/Fotos.html</loc>
+  <lastmod>2025-12-02T07:30:11+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://github.com/EsquilinhoObeso/Trabalho/actions</loc>
-  <lastmod>2025-12-01T23:35:37+00:00</lastmod>
+  <loc>https://esquilinhoobeso.github.io/Trabalho/Patrocinadores.html</loc>
+  <lastmod>2025-12-02T07:30:11+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://github.com/EsquilinhoObeso/Trabalho/security</loc>
-  <lastmod>2025-12-01T23:35:37+00:00</lastmod>
+  <loc>https://esquilinhoobeso.github.io/Trabalho/Testamento.html</loc>
+  <lastmod>2025-12-02T07:30:11+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://github.com/EsquilinhoObeso/Trabalho/blob/main/.gitattributes</loc>
-  <lastmod>2025-12-01T23:35:37+00:00</lastmod>
+  <loc>https://esquilinhoobeso.github.io/Trabalho/contato.html</loc>
+  <lastmod>2025-12-02T07:30:11+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://github.com/EsquilinhoObeso/Trabalho/blob/main/Formul%C3%A1rio.html</loc>
-  <lastmod>2025-12-01T23:35:37+00:00</lastmod>
+  <loc>https://esquilinhoobeso.github.io/Trabalho/Links.html</loc>
+  <lastmod>2025-12-02T07:30:11+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://github.com/EsquilinhoObeso/Trabalho/blob/main/Fotos.html</loc>
-  <lastmod>2025-12-01T23:35:37+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://github.com/EsquilinhoObeso/Trabalho/blob/main/Hierarquia.html</loc>
-  <lastmod>2025-12-01T23:35:37+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://github.com/EsquilinhoObeso/Trabalho/blob/main/Links.html</loc>
-  <lastmod>2025-12-01T23:35:37+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://github.com/EsquilinhoObeso/Trabalho/blob/main/Patrocinadores.html</loc>
-  <lastmod>2025-12-01T23:35:37+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://github.com/EsquilinhoObeso/Trabalho/blob/main/README.md</loc>
-  <lastmod>2025-12-01T23:35:37+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://github.com/EsquilinhoObeso/Trabalho/blob/main/Testamento.html</loc>
-  <lastmod>2025-12-01T23:35:37+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://github.com/EsquilinhoObeso/Trabalho/blob/main/config.css</loc>
-  <lastmod>2025-12-01T23:35:37+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://github.com/EsquilinhoObeso/Trabalho/blob/main/contato.html</loc>
-  <lastmod>2025-12-01T23:35:37+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://github.com/EsquilinhoObeso/Trabalho/blob/main/index.html</loc>
-  <lastmod>2025-12-01T23:35:37+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://github.com/EsquilinhoObeso/Trabalho/blob/main/pagina1.html</loc>
-  <lastmod>2025-12-01T23:35:37+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://github.com/EsquilinhoObeso/Trabalho/blob/main/pagina2.html</loc>
-  <lastmod>2025-12-01T23:35:37+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://github.com/EsquilinhoObeso/Trabalho/releases</loc>
-  <lastmod>2025-12-01T23:35:37+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://github.com/EsquilinhoObeso/search?q=repo%3AEsquilinhoObeso%2FTrabalho++language%3AHTML</loc>
-  <lastmod>2025-12-01T23:35:37+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://github.com/EsquilinhoObeso/search?q=repo%3AEsquilinhoObeso%2FTrabalho++language%3ACSS</loc>
-  <lastmod>2025-12-01T23:35:37+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://github.com/EsquilinhoObeso/Trabalho/labels</loc>
-  <lastmod>2025-12-01T23:35:37+00:00</lastmod>
+  <loc>https://esquilinhoobeso.github.io/Trabalho/index.html</loc>
+  <lastmod>2025-12-02T07:30:11+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://github.com/EsquilinhoObeso/Trabalho/milestones</loc>
-  <lastmod>2025-12-01T23:35:37+00:00</lastmod>
+  <loc>https://esquilinhoobeso.github.io/Trabalho/Formul%C3%A1rio.html</loc>
+  <lastmod>2025-12-02T07:30:11+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://github.com/EsquilinhoObeso/Trabalho/milestones?state=closed</loc>
-  <lastmod>2025-12-01T23:35:37+00:00</lastmod>
-  <priority>0.51</priority>
+  <loc>https://esquilinhoobeso.github.io/Trabalho/pagina2.html</loc>
+  <lastmod>2025-12-02T07:30:11+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 
 
